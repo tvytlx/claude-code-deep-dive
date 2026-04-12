@@ -11,8 +11,9 @@
 ## Quick Links
 
 PDF 下载 / PDF Report:
-- [ai-agent-deep-dive-v2.1.pdf](./ai-agent-deep-dive-v2.1.pdf) 新增第八章：记忆系统
-- [ai-agent-deep-dive-v2.pdf](./ai-agent-deep-dive-v2.pdf)
+- 新增《Hermes Agent 源码深度解析》，在我的知识星球 [矩阵之外](https://t.zsxq.com/v10jO)
+- ClaudeCode [ai-agent-deep-dive-v2.1.pdf](./ai-agent-deep-dive-v2.1.pdf) 新增第八章：记忆系统
+- ClaudeCode [ai-agent-deep-dive-v2.pdf](./ai-agent-deep-dive-v2.pdf)
 
 ## Notes
 
